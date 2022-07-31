@@ -17,9 +17,18 @@
 
 5) App purchase
 
+6) Localization
+
+7) Themes (dark and light)
+
+![list](https://github.com/VyacheslavSheverdin/cryptocurrencyconvectorcheko/blob/main/assets/theme.jpeg)
+
+
 ## Technologist
 
 1) React native
 2) Firebase
 3) MobX
 4) React-native-charts-wrapper
+5) Addmob
+6) Ios and android publication
